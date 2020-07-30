@@ -14,7 +14,7 @@ priority: optional
 section: metapackages
 
 # Descripción corta
-shortdesc: "Buildbot testingn package."
+shortdesc: "Buildbot testign package."
 
 # Descripción larga, las lineas han de estar separadas por "\n "
 longdesc: "This package is a buildbot test."
