@@ -1,0 +1,29 @@
+# YAML 1.1
+# Fichero de configuración de paquetes de personalización de GECOS
+
+# Nombre del paquete (minúsculas-separado-con-guiones)
+name: buildbot-test
+
+# Autor 
+author: homero10 <homero10@invalid.com>
+
+#Priority
+priority: optional
+
+# Section
+section: metapackages
+
+# Descripción corta
+shortdesc: "Buildbot test package."
+
+# Descripción larga, las lineas han de estar separadas por "\n "
+longdesc: "This package is a buildbot test."
+
+
+# Versión del paquete
+version: 1.0
+
+# Cambios en esta versión
+changes:
+    - Prueba desde VScode
+    - Initial release.
