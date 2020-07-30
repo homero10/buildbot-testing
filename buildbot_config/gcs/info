@@ -2,10 +2,10 @@
 # Fichero de configuración de paquetes de personalización de GECOS
 
 # Nombre del paquete (minúsculas-separado-con-guiones)
-name: buildbot-test
+name: buildbot-testing
 
 # Autor 
-author: homero10 <homero10@invalid.com>
+author: homero10 <notmail@invalid.com>
 
 #Priority
 priority: optional
@@ -14,10 +14,10 @@ priority: optional
 section: metapackages
 
 # Descripción corta
-shortdesc: "Buildbot test package."
+shortdesc: "Buildbot testing package."
 
 # Descripción larga, las lineas han de estar separadas por "\n "
-longdesc: "This package is a buildbot test."
+longdesc: "This package is a buildbot testing."
 
 
 # Versión del paquete
