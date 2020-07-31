@@ -2,7 +2,7 @@
 # Fichero de configuración de paquetes de personalización de GECOS
 
 # Nombre del paquete (minúsculas-separado-con-guiones)
-name: buildbot-testing
+name: buildbot-testing-focal
 
 # Autor 
 author: homero10 <notmail@invalid.com>
